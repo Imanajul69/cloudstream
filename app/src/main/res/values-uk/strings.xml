@@ -37,7 +37,7 @@
     <string name="type_dropped">Покинуто</string>
     <string name="play_movie_button">Переглянути фільм</string>
     <string name="play_trailer_button">Переглянути трейлер</string>
-    <string name="play_torrent_button">Трансляція через торрент</string>
+    <string name="play_torrent_button">Трансляція через торент</string>
     <string name="reload_error">Повторити підключення…</string>
     <string name="go_back">Назад</string>
     <string name="play_episode">Переглянути епізод</string>
@@ -75,7 +75,7 @@
     <string name="continue_watching">Продовжити перегляд</string>
     <string name="action_remove_watching">Вилучити</string>
     <string name="action_open_watching">Детальніше</string>
-    <string name="vpn_torrent">Цей постачальник є торрентом, рекомендується VPN</string>
+    <string name="vpn_torrent">Цей постачальник є торентом, рекомендується використовувати VPN</string>
     <string name="torrent_plot">Опис</string>
     <string name="normal_no_plot">Сюжет не знайдено</string>
     <string name="torrent_no_plot">Опис не знайдено</string>
@@ -224,7 +224,7 @@
     <string name="double_tap_to_seek_settings_des">Двічі торкніться праворуч або ліворуч, щоб перемотати відео вперед або назад</string>
     <string name="use_system_brightness_settings_des">Використовуйте системну яскравість у плеєрі замість темної накладки</string>
     <string name="restore_success">Завантажено файл резервної копії</string>
-    <string name="torrent">Торренти</string>
+    <string name="torrent">Торенти</string>
     <string name="episode_sync_settings_des">Автоматична синхронізація прогресу поточного епізоду</string>
     <string name="backup_failed">Відсутні дозволи на зберігання. Будь ласка, спробуйте ще раз.</string>
     <string name="kitsu_settings">Показувати постери від Kitsu</string>
@@ -256,7 +256,7 @@
     <string name="nsfw">NSFW</string>
     <string name="movies_singular">Фільм</string>
     <string name="ova_singular">OVA</string>
-    <string name="torrent_singular">Торрент</string>
+    <string name="torrent_singular">Торент</string>
     <string name="show_hd">Мітка якості</string>
     <string name="nsfw_singular">NSFW</string>
     <string name="episode_action_play_in_browser">Переглянути в браузері</string>
@@ -294,7 +294,7 @@
     <string name="primary_color_settings">Основний колір</string>
     <string name="app_theme_settings">Тема застосунку</string>
     <string name="bottom_title_settings">Розташування назви постера</string>
-    <string name="bottom_title_settings_des">Розмістіть назву під постером</string>
+    <string name="bottom_title_settings_des">Розмістити назву під постером</string>
     <string name="example_password">Пароль123</string>
     <string name="example_username">Моє круте ім\'я</string>
     <string name="example_email">hello@world.com</string>
